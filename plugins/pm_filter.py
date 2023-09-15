@@ -1144,12 +1144,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('✿ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✿', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💻 Bᴏᴛ Oᴡɴᴇʀ 💻', callback_data="owner_info"),
-                    InlineKeyboardButton('❂ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ❂', url=GRP_LNK)
+                    InlineKeyboardButton('✪ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
+                    InlineKeyboardButton('❂ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('〄 Hᴇʟᴘ 〄', callback_data='help'),
-                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ ⍟', callback_data='about'),
-                    InlineKeyboardButton('✎ Sᴜᴘᴘᴏʀᴛ ✎', url="http://t.me/NJAUTOFILTERSUPPORT_BOT")
+                    InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -1628,7 +1627,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("🔮 Cʜᴇᴄᴋ Bᴏᴛ PM 🔮", url=f"https://t.me/{temp.U_NAME}")
     ])
 
     if offset != "":
