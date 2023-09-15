@@ -189,15 +189,11 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @botsbynjboi
-▫️ Movie Request ɢʀᴏᴜᴘ : @movierequestgroupNj
-=========== • ✠ • ===========</b>"""
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+▫️<a href=https://t.me/movierequestgroupNj> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
