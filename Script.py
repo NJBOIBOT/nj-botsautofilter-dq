@@ -13,9 +13,15 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
-    SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-Tʜɪs Is Aɴ Pʀɪᴠᴀᴛᴇ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @botsbynjboi 
-- ᴅᴇᴠᴇʟᴏᴘᴇʀ <a href="https://t.me/botsbynjboi">𝗡𝗝 𝗕𝗢𝗜</a></b>"""
+    SOURCE_TXT = """
+<b>Hᴇʏ, Tʜɪs Is Aɴ Pʀɪᴠᴀᴛᴇ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+
+Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
+
+Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://t.me/neymar_boi'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
+
+Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ Tʜɪs Bᴏᴛ - <a href='https://t.me/botsbynjboi'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
+"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
